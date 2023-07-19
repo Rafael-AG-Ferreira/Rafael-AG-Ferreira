@@ -29,3 +29,5 @@ I am a graduate student of computer science with a background in psychology. Ove
 <img src="https://www.codeblocks.org/images/logo160.png" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" height="50">
 <img src="https://hackaday.com/wp-content/uploads/2017/12/tbnl-visual.png?w=600&h=600" height="50">
+</br>
+<img src="https://ccl.northwestern.edu/netlogo-ccl/netlogo.png" height="50">

@@ -16,3 +16,8 @@ I am a graduate student of computer science with a background in psychology. Ove
 <a href="https://github.com/Rafael-AG-Ferreira/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-AG-Ferreira&layout=compact&langs_count=8&card_width=320&theme=transparent&title_color=06f29a" />
 </a>
+</br></br>
+
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">

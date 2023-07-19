@@ -20,4 +20,6 @@ I am a graduate student of computer science with a background in psychology. Ove
 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203" height="50">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" height="50">

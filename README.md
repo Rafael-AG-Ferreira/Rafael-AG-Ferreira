@@ -32,4 +32,5 @@ I am a graduate student of computer science with a background in psychology. Ove
 <img src="https://avatars.githubusercontent.com/u/84764158?v=4" height="50">
 <img src="https://icons.iconarchive.com/icons/martz90/hex/512/ubuntu-icon.png" height="50">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50">
+<img src="https://vvcestudio.com.br/static/assetsv5/img/codigo/logothreejs.png" height="50">
 <img src="https://hackaday.com/wp-content/uploads/2017/12/tbnl-visual.png?w=600&h=600" height="50">

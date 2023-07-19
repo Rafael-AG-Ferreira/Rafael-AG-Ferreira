@@ -30,10 +30,9 @@ I am a graduate student of computer science with a background in psychology. Ove
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" height="50">
 <img src="https://ccl.northwestern.edu/netlogo-ccl/netlogo.png" height="50">
 <img src="https://avatars.githubusercontent.com/u/84764158?v=4" height="50">
-</br>
 <img src="https://icons.iconarchive.com/icons/martz90/hex/512/ubuntu-icon.png" height="50">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50">
-<img src="https://vvcestudio.com.br/static/assetsv5/img/codigo/logothreejs.png" height="50">  
+<img src="https://vvcestudio.com.br/static/assetsv5/img/codigo/logothreejs.png" height="50">
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" height="50">

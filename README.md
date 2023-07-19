@@ -33,4 +33,7 @@ I am a graduate student of computer science with a background in psychology. Ove
 <img src="https://icons.iconarchive.com/icons/martz90/hex/512/ubuntu-icon.png" height="50">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50">
 <img src="https://vvcestudio.com.br/static/assetsv5/img/codigo/logothreejs.png" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" height="50">
 <img src="https://hackaday.com/wp-content/uploads/2017/12/tbnl-visual.png?w=600&h=600" height="50">
